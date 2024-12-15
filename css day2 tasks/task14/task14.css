@@ -1,0 +1,7 @@
+p {
+  border: 1px red solid;
+  width: 300px;
+  height: 300px;
+  box-shadow: 4px -4px 0px 0px blue, 8px -8px 0px 0px green,
+    12px -12px 0px 0px purple;
+}

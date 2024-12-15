@@ -1,0 +1,17 @@
+header {
+  background-color: rgb(50, 38, 38);
+  color: white;
+  text-align: left;
+  padding: 10px;
+  position: sticky;
+  top: 0px;
+}
+a {
+  padding: 10px;
+  background-color: rgb(50, 38, 38);
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+    background-color: rgb(38, 25, 25);
+}

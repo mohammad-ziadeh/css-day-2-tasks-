@@ -1,0 +1,37 @@
+p {
+  width: 100px;
+  height: 100px;
+}
+div {
+    border: 2px solid;
+    width: auto;
+    height: 800px;
+    position: relative;
+  }
+.one {
+  background-color: red;
+  position: absolute;
+  top: -16px;
+  left: 0;
+}
+
+.two {
+  background-color: blue;
+  position: absolute;
+  top: -16px;
+  right: 0;
+}
+
+.three {
+  background-color: green;
+  position: absolute;
+  bottom: -16px;
+  left: 0;
+}
+
+.four {
+  background-color: yellow;
+  position: absolute;
+  bottom: -16px;
+  right: 0;
+}

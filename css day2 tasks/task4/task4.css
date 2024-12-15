@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+}
+.p1 {
+  border: 4px solid black;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+}
+.p2 {
+  outline: 4px solid blue;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+}
+.p3 {
+  outline: 4px dashed rgb(253, 4, 4);
+  border: 4px solid green;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+}
+.p4 {
+  border: red solid 4px;
+  outline: 4px double purple;
+  width: 300px;
+  height: auto;
+  padding: 10px;
+  outline-offset: 5px;
+}

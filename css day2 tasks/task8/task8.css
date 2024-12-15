@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+.one {
+  border: 2px solid black;
+  width: 800px;
+  height: 50px;
+  position: relative;
+  top: 10px;
+}
+.two {
+  border: 2px solid blue;
+  background-color: blue;
+  color: antiquewhite;
+  width: 500px;
+  height: 70px;
+  position: fixed;
+  z-index: 1;
+ 
+}
+.three {
+  position: absolute ;
+  top: 10px;
+  left: 100px;
+  border: 2px solid green;
+  background-color: green;
+  color: antiquewhite;
+  width: 400px;
+  height: 70px;
+}

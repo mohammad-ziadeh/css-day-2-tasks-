@@ -1,0 +1,17 @@
+p {
+    border: 1px solid orange;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    text-align: center;
+    border-radius: 7px;
+}
+.one {
+    box-shadow: 10px 10px 10px;
+}
+.two {
+    box-shadow: inset 5px 5px 10px;
+}
+.three {
+    box-shadow: 5px 5px 10px , -5px -5px 10px crimson;
+}

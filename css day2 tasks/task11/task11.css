@@ -1,0 +1,9 @@
+p {
+  background-color: aquamarine;
+  border: 3px;
+  width: 400px;
+  height: 100px;
+  border-style: none none dashed solid;
+  border-color: white white blue red;
+
+}

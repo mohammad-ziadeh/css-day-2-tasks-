@@ -1,0 +1,29 @@
+p{
+    color: white;
+    margin: 0 auto;
+    font-size: 20px;
+    background-color: orange;
+    
+    width: 100px;
+    height: 100px
+}
+.one {
+    opacity: 1;
+    text-align: center;
+   
+}
+
+.two {
+    opacity: 0.75;
+    text-align: center;
+}
+
+.three {
+    opacity: 0.5;
+    text-align: center;
+}
+
+.four {
+    opacity: 0.25;
+    text-align: center;
+}
